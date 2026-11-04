@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Matriz_De_Adjacencia_4A_BCC/1.0.0": {
+        "runtime": {
+          "Matriz_De_Adjacencia_4A_BCC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matriz_De_Adjacencia_4A_BCC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
