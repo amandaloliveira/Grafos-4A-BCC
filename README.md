@@ -17,7 +17,7 @@
 
 Repositório criado para a entrega oficial de um código contendo as 3 implementações do algoritmo que trabalha com grafos (Lista de Adjacência, Matriz de Adjacência e Lista de Arestas). Para acessar o código-fonte de cada um, entre nas respectivas pastas e acesse o arquivo intitulado "Program.cs"
 
-No repositório, é possível observar a presença de 3 códigos:
+No repositório, é possível observar a presença de 5 códigos:
 - Código completo de Lista de Adjacência
 - Código completo de Matriz de Adjacência
 - Código completo de Lista de Arestas
