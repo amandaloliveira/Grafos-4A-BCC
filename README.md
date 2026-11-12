@@ -21,3 +21,6 @@ No repositório, é possível observar a presença de 3 códigos:
 - Código completo de Lista de Adjacência
 - Código completo de Matriz de Adjacência
 - Código completo de Lista de Arestas
+- Código completo de Busca em Largura Padrão e Menor Caminho
+- Código completo de Busca em Profundidade Padrão e Para Encontrar Ciclos
+
